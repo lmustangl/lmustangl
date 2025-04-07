@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on YoungNam Univercity
+- 🌱 I’m currently learning C++ programing
 <!--
 **lmustangl/lmustangl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
