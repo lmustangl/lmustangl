@@ -1,4 +1,5 @@
-## Hi there 👋
+## HELLO It's me 👋
+- 😄 My name is JungWonWoo, I was born in 2003
 - 🔭 I’m currently working on YoungNam Univercity
 - 🌱 I’m currently learning C++ programing
 <!--
