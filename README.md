@@ -1,7 +1,7 @@
-## HELLO It's me 👋
-- 😄 My name is JungWonWoo, I was born in 2003
-- 🔭 I’m currently working on YoungNam Univercity
-- 🌱 I’m currently learning C++ programing
+## HELLO, My name is JungWonWoo 👋
+- 😄 I have been attending the Department of Computer Engineering at Yeungnam University since 2022.
+- 🌱 I’m currently learning open source software.
+- ⚡ I was discharged from the military last year.
 <!--
 **lmustangl/lmustangl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
