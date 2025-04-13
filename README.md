@@ -2,6 +2,7 @@
 - 😄 I have been attending the Department of Computer Engineering at Yeungnam University since 2022.
 - 🌱 I’m currently learning open source software.
 - ⚡ I was discharged from the military last year.
+- 💬 If you have any questions about me, please contact wonu8866@naver.com
 <!--
 **lmustangl/lmustangl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
